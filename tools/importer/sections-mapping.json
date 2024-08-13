@@ -1,0 +1,129 @@
+[
+  {
+    "id": "1",
+    "path": "/nav",
+    "sections": [
+      {
+        "id": "1-1",
+        "blocks": [],
+        "settings": {}
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "path": "/en",
+    "sections": [
+      {
+        "id": "2-1",
+        "blocks": [
+          {
+            "id": "box-id--1233406763",
+            "x": 486,
+            "y": 0,
+            "width": 565,
+            "height": 504,
+            "xpath": "/html[1]/body[1]/form[1]/div[3]/header[1]/div[1]/div[1]/div[4]/div[2]/ul[1]/li[1]",
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "color": "rgba(148, 0, 211, 0.4)",
+            "mapping": "defaultContent",
+            "customBlockName": ""
+          },
+          {
+            "id": "box-id--444728297",
+            "x": 0,
+            "y": 0,
+            "width": 1052,
+            "height": 3500,
+            "xpath": "/html[1]/body[1]/form[1]/div[3]/header[1]",
+            "layout": {
+              "numCols": 1,
+              "numRows": 6
+            },
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/form[1]/div[3]/header[1]/div[1]/div[1]/div[4]/div[2]/ul[1]/li[1]",
+                "xpathWithDetails": "id(\"mmenu\")/li[@class=\"level1 haschildren first\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/form[1]/div[3]/header[1]/div[1]/div[1]/div[4]/div[2]/ul[1]/li[2]",
+                "xpathWithDetails": "id(\"mmenu\")/li[@class=\"level1 haschildren\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/form[1]/div[3]/header[1]/div[1]/div[1]/div[4]/div[2]/ul[1]/li[3]",
+                "xpathWithDetails": "id(\"mmenu\")/li[@class=\"level1 haschildren\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/form[1]/div[3]/header[1]/div[1]/div[1]/div[4]/div[2]/ul[1]/li[4]",
+                "xpathWithDetails": "id(\"mmenu\")/li[@class=\"level1 haschildren\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/form[1]/div[3]/header[1]/div[1]/div[1]/div[4]/div[2]/ul[1]/li[5]",
+                "xpathWithDetails": "id(\"mmenu\")/li[@class=\"level1 haschildren\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/form[1]/div[3]/header[1]/div[1]/div[1]/div[4]/div[2]/ul[1]/li[6]",
+                "xpathWithDetails": "id(\"mmenu\")/li[@class=\"level1 haschildren last\"]"
+              }
+            ],
+            "color": "rgb(148, 0, 211)",
+            "mapping": "defaultContent",
+            "customBlockName": ""
+          },
+          {
+            "id": "box-id--1233406701",
+            "x": 486,
+            "y": 756,
+            "width": 565,
+            "height": 1484,
+            "xpath": "/html[1]/body[1]/form[1]/div[3]/header[1]/div[1]/div[1]/div[4]/div[2]/ul[1]/li[3]",
+            "layout": {
+              "numCols": 1,
+              "numRows": 5
+            },
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/form[1]/div[3]/header[1]/div[1]/div[1]/div[4]/div[2]/ul[1]/li[3]/ul[1]/li[3]",
+                "xpathWithDetails": "id(\"mmenu\")/li[@class=\"level1 haschildren\"]/li[@class=\"level2 haschildren\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/form[1]/div[3]/header[1]/div[1]/div[1]/div[4]/div[2]/ul[1]/li[3]/ul[1]/li[5]",
+                "xpathWithDetails": "id(\"mmenu\")/li[@class=\"level1 haschildren\"]/li[@class=\"level2 haschildren\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/form[1]/div[3]/header[1]/div[1]/div[1]/div[4]/div[2]/ul[1]/li[3]/ul[1]/li[8]",
+                "xpathWithDetails": "id(\"mmenu\")/li[@class=\"level1 haschildren\"]/li[@class=\"level2 haschildren\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/form[1]/div[3]/header[1]/div[1]/div[1]/div[4]/div[2]/ul[1]/li[3]/ul[1]/li[9]",
+                "xpathWithDetails": "id(\"mmenu\")/li[@class=\"level1 haschildren\"]/li[@class=\"level2 haschildren\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/form[1]/div[3]/header[1]/div[1]/div[1]/div[4]/div[2]/ul[1]/li[3]/ul[1]/li[11]",
+                "xpathWithDetails": "id(\"mmenu\")/li[@class=\"level1 haschildren\"]/li[@class=\"level2 haschildren\"]"
+              }
+            ],
+            "color": "rgba(148, 0, 211, 0.4)",
+            "mapping": "defaultContent",
+            "customBlockName": ""
+          }
+        ],
+        "settings": {}
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "path": "/footer",
+    "sections": [
+      {
+        "id": "3-1",
+        "blocks": [],
+        "settings": {}
+      }
+    ]
+  }
+]
